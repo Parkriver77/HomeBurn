@@ -11,4 +11,4 @@ Burn calories at home — bodyweight only. Your phone counts every rep.
 - Auto exercise detection & switch
 - Local calorie & session log
 
-© 2026 TaeSik Park
+© 2026 TAESIK
